@@ -1,0 +1,13 @@
+struct Std_ahmed_s
+{
+    int G_var;
+    int G_var2;
+};
+enum Std_1_
+{
+   enum1_var1,
+   enum1_var2,
+   enum1_var3,
+};
+enum Std_1_e G_ayook_;
+struct Std_ahmed_s G_ayook_;

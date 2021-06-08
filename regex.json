@@ -1,0 +1,21 @@
+{
+  "declare": {
+    "struct": "Std_.+_s",
+    "union": "Std_.+_u",
+    "types": "Std_.+_t",
+    "enum": "Std_.+_e",
+    "function": "Std_.+_func"
+  },
+  "global":{
+    "struct": "G_.+_s",
+    "union": "G_.+_u",
+    "enum": "G_.+_e",
+    "other vars": "G_.+"
+  },
+  "local":{
+    "struct": "L_.+_s",
+    "union": "L_.+_u",
+    "enum": "L_.+_e",
+    "other vars": "L_.+"
+  }
+}
